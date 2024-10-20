@@ -1,3 +1,11 @@
+My Dad and Me needed a:
+(1) 100% Free.
+(2) Simple.
+(3) Any Image to the most popular Image file types.
+(4) Batch Image converter.
+So I made this.
+
+
 This is a UI built from AutoHotKey v2 for "Magick Image converter"(a Very good Command line tool basically a photo editor)
 
 Compact and Simple 
