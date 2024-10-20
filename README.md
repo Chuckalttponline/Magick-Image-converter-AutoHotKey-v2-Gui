@@ -1,7 +1,8 @@
 This is a UI built from AutoHotKey v2 for "Magick Image converter"(a Very good Command line tool basically a photo editor)
 
-Compact and Simple
+Compact and Simple 
 -
+- Just drag and drop any image files on to the Gui or On the apps icon which will run the app and load those images.
 ![image](https://github.com/user-attachments/assets/1b521f30-f24d-4e14-ae66-a79b97c8f987)
 
 
