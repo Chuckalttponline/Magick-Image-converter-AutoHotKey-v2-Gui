@@ -9,6 +9,10 @@ Convert almost any image format you can think of: to [.png, .jpg, .gif, .bmp, .w
 -
 - Insert an image into a new pdf file.
 - Yes svg can hold real image data not just Gcode.
+-
+
+
+
 ![unnamed](https://github.com/user-attachments/assets/bc08ab78-cc3d-47c0-95b6-d6bd24bf0868)
 
 
