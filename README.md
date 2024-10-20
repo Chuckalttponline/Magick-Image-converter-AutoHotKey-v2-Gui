@@ -5,7 +5,7 @@ Compact and Simple
 ![image](https://github.com/user-attachments/assets/1b521f30-f24d-4e14-ae66-a79b97c8f987)
 
 
-Convert almost any image format you can think of: to [.png, .jpg, .gif, .bmp, .webp, .svg, .pdf]
+Convert almost any image format you can think of including .heic and .ico Which will be converted to several images if the icon has multiple layers: to [.png, .jpg, .gif, .bmp, .webp, .svg, .pdf]
 -
 - Insert an image into a new pdf file.
 - Yes svg can hold real image data not just Gcode.
